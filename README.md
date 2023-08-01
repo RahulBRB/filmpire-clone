@@ -1,4 +1,5 @@
 <h1>MovieFlixpire - A Netflix-Inspired Movie Website</h1>
+
 ![image](https://github.com/RahulBRB/filmpire-clone/assets/86495244/a830f427-ece1-471a-be87-8390ce7dd10a)
 
 <b>MovieFlixpire</b> is a modern and user-friendly movie website that draws inspiration from Netflix's sleek design and intuitive interface. It allows users to discover and explore a vast collection of movies and TV series. The website leverages the Open Movie Database (OMDb) API to fetch movie data, providing users with comprehensive details and images for each title.
